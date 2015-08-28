@@ -1,2 +1,2 @@
 # memset_explicit
-Forced memset() to avoid GCC/Clang optimization
+Forced `memset()` to avoid GCC/Clang optimization

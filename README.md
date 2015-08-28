@@ -1,6 +1,8 @@
 # memset_explicit
 Forced `memset()` to avoid GCC/Clang optimization
 
+## Supported Compiers
+
 The code was tested under the following compilers:
 
   - ARMCC

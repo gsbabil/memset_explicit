@@ -1,5 +1,6 @@
 # memset_explicit
-Forced `memset()` to avoid GCC/Clang optimization
+
+A custom `memset()` implementation to force bypass GCC/Clang optimization
 
 ## Supported Compiers
 

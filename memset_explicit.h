@@ -1,9 +1,8 @@
 /*
  * ---------------------------------------------------------------------------
- *
  *       Filename:  memset_explicit.h
- *
- *    Description:  Forced memset() to bypass GCC/Clang optimization
+ *    Description:  A custom `memset()` implementation to force bypass GCC/Clang
+ *                  optimization
  *
  *        Version:  1.0
  *        Created:  03/19/2015 01:41:49
@@ -12,8 +11,6 @@
  *
  *         Author:  Babil Golam Sarwar (bgs)
  *          Email:  gsbabil@gmail.com
- *   Organization:  Vysk Communications Inc.
- *
  * ---------------------------------------------------------------------------
  */
 
